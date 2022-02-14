@@ -1,0 +1,7 @@
+13 luty 2022 version 0.1.0
+- utworzenie nowej wersji strony Niewiernych Psów.
+
+14 luty 2022 version 0.1.1
+- utworzenie pliku readme.md
+- utworzenie pliku changelog.txt
+- usunięcie koloru tła dla Header oraz footer

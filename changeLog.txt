@@ -5,3 +5,6 @@
 - utworzenie pliku readme.md
 - utworzenie pliku changelog.txt
 - usunięcie koloru tła dla Header oraz footer
+
+15 luty 2022 version 0.1.2
+- wstępne ostylowanie przycisków

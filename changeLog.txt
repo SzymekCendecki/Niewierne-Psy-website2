@@ -12,3 +12,6 @@
 16 luty 2022 version 0.1.3
 - dodanie przycisku zmiany języka - na razie będzie z polskiego na angielski
 - dodanie testu działania przycisku zmiany języka
+
+19 luty 2022 version 0.1.4
+- reorganizacja (optymalizacja?) kodu css

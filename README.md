@@ -14,6 +14,8 @@ localhost:8080
 
 npm run dev - kompiluje do osobnego katalogu (folder dist)
 
+nie wiem, czy to zgodne z zasadami, ale musiałem dwa pliki z folderu dist przenieść do głównego katalogu, aby można było opublikować stronę. zrobiłem tak, bo nie mam na razie nie wiem jak to prawidłowo zrobić.
+
 strony, z których korzystałem:
 https://webpack.js.org/
 https://www.npmjs.com/
@@ -46,3 +48,5 @@ there is an editable version of the page in the src directory.
 there is a version of the page in the dist directory that has only two files: index.html and main.bundle.js
 
 I do not recommend editing files from the dist folder, there are also files from the src folder.
+
+don't know if that's okay, but i had to move two files from dist to root to publish the page. I did so because I do not yet know how to do it properly.

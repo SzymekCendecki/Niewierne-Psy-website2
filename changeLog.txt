@@ -15,3 +15,36 @@
 
 19 luty 2022 version 0.1.4
 - reorganizacja (optymalizacja?) kodu css
+
+20 marca 2022 version 0.2.0
+- utworzenie webpacka
+- usunięcie starych plików
+- reorganizacja struktury folderów i plików strony
+- dodanie angielskiej wersji changeLog.txt
+
+
+
+
+english versionFebruary 13, 2022 version 0.1.0
+- creating a new version of the Unfaithful Dogs website.
+
+February 14, 2022 version 0.1.1
+- creating the readme.md file
+- creating a changelog.txt file
+- removing the background color for Header and footer
+
+February 15, 2022 version 0.1.2
+- initial styling of buttons
+
+February 16, 2022 version 0.1.3
+- adding a language change button - for now it will be from Polish to English
+- adding a test of the operation of the language change button
+
+February 19, 2022 version 0.1.4
+- reorganization (optimization?) of the css code
+
+March 20, 2022 version 0.2.0
+- creating a webpack
+- delete old files
+- reorganization of the page folder and file structure
+- added english version of changeLog.txt

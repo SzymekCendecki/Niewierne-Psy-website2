@@ -21,7 +21,10 @@
 - usunięcie starych plików
 - reorganizacja struktury folderów i plików strony
 - dodanie angielskiej wersji changeLog.txt
-- improved button styles
+- poprawa stylów przycisków
+
+22 marca 2022 version 0.2.1
+- dodanie przycisku rekrutacji do Eve Online
 
 
 
@@ -51,4 +54,7 @@ March 20, 2022 version 0.2.0
 - delete old files
 - reorganization of the page folder and file structure
 - added english version of changeLog.txt
-- poprawa stylów przycisków
+- improved button styles
+
+March 22, 2022 version 0.2.1
+- adding a recruitment button to Eve Online

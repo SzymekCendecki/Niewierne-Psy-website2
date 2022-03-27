@@ -26,6 +26,10 @@
 22 marca 2022 version 0.2.1
 - dodanie przycisku rekrutacji do Eve Online
 
+27 marca 2022 version 0.2.2
+- dodanie nowego diva "mainContainer"
+- mała poprawka stylu css poprawiająca nakładanie się divów
+
 
 
 
@@ -58,3 +62,7 @@ March 20, 2022 version 0.2.0
 
 March 22, 2022 version 0.2.1
 - adding a recruitment button to Eve Online
+
+March 27, 2022 version 0.2.2
+- adding new div "mainContainer"
+- small css style fix to improve div overlap

@@ -22,9 +22,15 @@ h1{
     color:rgb(31, 31, 221);    
 }
 
+#mainContainer{
+    width: 90%;
+    height: 80%;
+    margin: 0 auto;
+}
+
 #aboutUs, #games, #programs, #other{
     width: 95%;
-    height: 30%;
+    height: 25%;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
